@@ -1,0 +1,5 @@
+
+Taget for Short Script Phase:
+1. Setup VM
+2. Write Script file
+3. Run mechanism
